@@ -15,7 +15,7 @@
       "function": {
         "cryptofunctionspring": {
           "deploymentBucketName": "amplify-cyrptoapp-dev-155344-deployment",
-          "s3Key": "amplify-builds/cryptofunctionspring-62544a5a79595a474b6f-build.zip"
+          "s3Key": "amplify-builds/cryptofunctionspring-5676424e7177724d646b-build.zip"
         }
       }
     }
